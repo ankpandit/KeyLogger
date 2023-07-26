@@ -1,0 +1,1 @@
+[<Key.alt_l: <164>>, <Key.tab: <9>>, <Key.ctrl_l: <162>>, '\x14', 't', 'h', 'i', 's', ' ', <Key.space: ' '>, 's', 'i', 's', ' ', <Key.space: ' '>, 'n', 'a', 'm', 'e', ' ', <Key.space: ' '>, 'a', 's', 'd', 'j', 'n', <Key.alt_l: <164>>, <Key.tab: <9>>, <Key.alt_l: <164>>, <Key.tab: <9>>, <Key.esc: <27>>]
